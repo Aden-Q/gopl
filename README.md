@@ -1,7 +1,7 @@
 # gopl
 [![Travis](https://img.shields.io/badge/language-go-green.svg)]()
 
-The Go Programming Language Book Exercise Solutions &amp;&amp; Notes
+*The Go Programming Language* Exercise Solutions &amp;&amp; Notes
 
 +   [Go Official Website](https://go.dev/)
 
